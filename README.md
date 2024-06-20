@@ -3,6 +3,4 @@
 
 Запуск (два способа):
 1. Отключив антивирус запустить autoclick.exe
-2. Запустить интерпретацию autoclick.py
-   Перед работой необходимо скачать интерпретатор Python: https://www.python.org/
-   Перед работой требует установить необходимые библиотеки: tkinter, pynput, threading, pyautogui (cmd/terminal: pip install {имя_библиотеки})
+2. Запустить интерпретацию autoclick.py (перед работой необходимо скачать интерпретатор Python: https://www.python.org/, перед работой требует установить необходимые библиотеки: tkinter, pynput, threading, pyautogui (cmd/terminal: pip install {имя_библиотеки}))
